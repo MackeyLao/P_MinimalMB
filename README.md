@@ -9,14 +9,14 @@
 - FirstTest.py  
   第一个测试Minimal modbus的程序
   包括常用的功能码测试
-    test_read_bit()
+    test_read_bit()  
     test_write_bit()  
-    test_write_bits()
+    test_write_bits()  
     test_read_reg()  
-    test_write_reg()
-    test_write_regs()
-    test_read_write_float()
-    test_read_write_string()
+    test_write_reg()  
+    test_write_regs()  
+    test_read_write_float()  
+    test_read_write_string()  
     test_ReportID()
 
 - docstring_test.py  
